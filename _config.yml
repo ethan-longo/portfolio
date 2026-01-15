@@ -1,0 +1,13 @@
+title: Ethan Longo Portfolio
+description: Mechatronics Engineering Portfolio
+author: Ethan Longo
+
+theme: jekyll-theme-minimal
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+
+url: "https://ethan.github.io"
+baseurl: ""
